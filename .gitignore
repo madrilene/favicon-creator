@@ -2,7 +2,7 @@
 node_modules
 
 # generated files
-favicon
+favicons
 
 # secret data
 .env
