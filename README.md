@@ -10,7 +10,7 @@ npm install
 
 ## Usage
 
-Replace favicon.svg with your own SVG file.
+Replace favicon.svg with your own SVG file (works also with rastered images!).
 
 You can also configure your settings in `settings.js`:
 
