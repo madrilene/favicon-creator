@@ -1,6 +1,6 @@
 {
   "name": "favicon-creator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple favicon creator based on a given SVG. Follows the sizes recommendations from the evilmartians.com article.",
   "main": "index.js",
   "type": "module",
